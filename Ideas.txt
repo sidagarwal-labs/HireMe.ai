@@ -1,0 +1,22 @@
+Initial Idea: 
+Build an interface that helps people research topics and new discoveries.
+
+Functionality:
+1. Summarize new and recent papers. Grounded in relevant previous discoveries.
+2. Allow users to ask questions about scientfic/research topics. Grounded in credible sources. 
+3. Create summary images with nanobanana?
+
+Open Questions:
+1. Allowlist of sources - Arxiv, HuggingFace.co, NASA?, Wikipedia?, Google Scholars?
+2. Do we need a blocklist? 
+
+Building/Infrastructure: 
+1. LLM to summarize a paper
+2. SLM to rerank from Arxiv
+3. UI/UX
+
+Documentation:
+
+Similar Competitors:
+https://www.alphaxiv.org/
+https://www.emergentmind.com/
