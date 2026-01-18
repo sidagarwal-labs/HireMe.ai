@@ -1,1 +1,1 @@
-# DSBA-6010---Applications-of-LLMs
+Applications of LLMs
